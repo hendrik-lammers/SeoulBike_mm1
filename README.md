@@ -26,4 +26,3 @@ The Dataset contains 8760 observations of 11 features plus target variable ("Ren
 
 # Code
 The code is written in a simple Jupyter Notebook file, to make it easily readable, understandable and executable.
-The execution might take some time on slow machines as I perform two middle-sized Grid Searches.
